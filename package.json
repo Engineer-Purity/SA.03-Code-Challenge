@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge3-flatdango",
+  "version": "1.0.0",
+  "description": "FlatDango used to display movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kericho/code-challenge3-flatdango.git"
+  },
+  "author": "Purity Nganga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kericho/code-challenge3-flatdango/issues"
+  },
+  "homepage": "https://github.com/kericho/code-challenge3-flatdango#readme"
+}
